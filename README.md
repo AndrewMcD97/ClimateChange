@@ -92,7 +92,7 @@ Fig. 3. Dropping empty rows from the GlobalTempsYearly df
 
 Fig. 5. Getting the mean value per year for temperature
 
-| CANCER DEATH ANALYTICS | 3 |
+|  | 3 |
 | --- | --- |
 |
  |
@@ -146,7 +146,7 @@ Fig. 8. The increase in temperature per year per city
 
 It was found that Belgorod of Russia and Pavlohrad of Ukraine had the biggest change year on year with an average change of about 0.06 degree Celsius. It seems that countries nearer to the north and south pole are experiencing global warming to a greater extent that the countries and cities nearer the equator due to the ice caps melting.
 
-| CANCER DEATH ANALYTICS | 5 |
+|  | 5 |
 | --- | --- |
 |
  |
